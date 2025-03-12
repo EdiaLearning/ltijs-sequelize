@@ -34,6 +34,7 @@
   "homepage": "https://github.com/Cvmcosta/ltijs-sequelize#readme",
   "dependencies": {
     "debug": "^4.3.1",
+    "node-cron": "^3.0.3",
     "sequelize": "^6.6.2",
     "umzug": "^3.0.0-beta.15"
   },
